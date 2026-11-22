@@ -215,7 +215,7 @@ java Main
 1. **Main Menu**
    Displays the available options for the Laundry Pickup & Delivery System.
    `[<img width="1242" height="672" alt="a69fa13f-b66f-4978-a16b-20515b2695f3" src="https://github.com/user-attachments/assets/7efcf0cc-e700-4e5d-b04e-9bd644bbede4" />
-]`
+
 
 3. **Available Services**
    Displays the list of services and their rates per kilogram.
