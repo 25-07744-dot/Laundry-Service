@@ -214,38 +214,38 @@ java Main
 
 1. **Main Menu**
    Displays the available options for the Laundry Pickup & Delivery System.
-   `[Insert screenshot of the Main Menu here]`
+   `[<img width="1242" height="672" alt="a69fa13f-b66f-4978-a16b-20515b2695f3" src="https://github.com/user-attachments/assets/7efcf0cc-e700-4e5d-b04e-9bd644bbede4" />
+]`
 
-2. **Available Services**
+3. **Available Services**
    Displays the list of services and their rates per kilogram.
    `[Insert screenshot of Available Services here]`
 
-3. **Create Laundry Schedule**
+4. **Create Laundry Schedule**
    Prompts for customer name, service selection, weight, pickup/delivery dates, and express option.
    `[Insert screenshot of Create Laundry Schedule here]`
 
-4. **Laundry Schedule Receipt**
+5. **Laundry Schedule Receipt**
    Displays the formatted receipt with base cost, express fee, and total amount due.
    `[Insert screenshot of Laundry Schedule Receipt here]`
 
-5. **View All Orders**
+6. **View All Orders**
    Displays all recorded orders and total order count.
    `[Insert screenshot of View All Orders here]`
 
 ## Author and Acknowledgement
 
-This program is created by `[Insert Group Name]` from `[Insert Section]` in compliance with the final project requirement in the course Object-Oriented Programming.
+This program is created by `[Insert Group Name]` from `IT - 2110` in compliance with the final project requirement in the course Object-Oriented Programming.
 
 Lead Programmer:
 `Marquinez, Zuzannha Jhane M.`
 
 Members:
-`[Insert Member 1]`
-`[Insert Member 2]`
-`[Insert Member 3]`
-`[Insert Member 4]`
+`Bacaraman, Jawad R.`
+`Comendador, Kyle Krizel C.`
 
-Special thanks to `[Insert Instructor's Name]` for guidance and introducing the OOP concepts used in this project.
+
+Special thanks to `Mr. Dominic Valdez` for guidance and introducing the OOP concepts used in this project.
 
 ## Future Enhancements
 
