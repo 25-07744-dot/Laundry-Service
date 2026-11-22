@@ -245,7 +245,7 @@ java Main
 
 ## Author and Acknowledgement
 
-This program is created by `[Insert Group Name]` from `IT - 2110` in compliance with the final project requirement in the course Object-Oriented Programming.
+This program is created by `Angry Birds` from `IT - 2110` in compliance with the final project requirement in the course Object-Oriented Programming.
 
 Lead Programmer:
 `Marquinez, Zuzannha Jhane M.`
