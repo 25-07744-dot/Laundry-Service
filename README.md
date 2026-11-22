@@ -214,24 +214,33 @@ java Main
 
 1. **Main Menu**
    Displays the available options for the Laundry Pickup & Delivery System.
-   `[<img width="1242" height="672" alt="a69fa13f-b66f-4978-a16b-20515b2695f3" src="https://github.com/user-attachments/assets/7efcf0cc-e700-4e5d-b04e-9bd644bbede4" />
+   `[
+   <img width="828" height="463" alt="444bc69e-ca87-4737-a7ab-9efffa74d7dd" src="https://github.com/user-attachments/assets/95faea98-0c61-4534-8faf-63ce0eb3d597" />
+]'
 
 
 3. **Available Services**
    Displays the list of services and their rates per kilogram.
-   `[Insert screenshot of Available Services here]`
+   '[
+   <img width="828" height="767" alt="c58c1a75-8850-4955-a47a-35115f3997a6" src="https://github.com/user-attachments/assets/8e887faf-1de1-4297-a592-55563edd4c5b" />
+]'
 
-4. **Create Laundry Schedule**
+5. **Create Laundry Schedule**
    Prompts for customer name, service selection, weight, pickup/delivery dates, and express option.
-   `[Insert screenshot of Create Laundry Schedule here]`
+   '[
+   <img width="828" height="842" alt="8515ec10-64bd-451f-816a-1f2ff208c4d1" src="https://github.com/user-attachments/assets/40312f7b-6741-40a0-b18c-a0e707af90ad" />
+]'
 
-5. **Laundry Schedule Receipt**
+7. **Laundry Schedule Receipt**
    Displays the formatted receipt with base cost, express fee, and total amount due.
-   `[Insert screenshot of Laundry Schedule Receipt here]`
+   '[<img width="828" height="842" alt="8515ec10-64bd-451f-816a-1f2ff208c4d1" src="https://github.com/user-attachments/assets/9e1756ee-3ee5-44da-bcdd-40ec27de45f4" />
 
-6. **View All Orders**
+
+8. **View All Orders**
    Displays all recorded orders and total order count.
-   `[Insert screenshot of View All Orders here]`
+   '[
+   <img width="828" height="842" alt="8515ec10-64bd-451f-816a-1f2ff208c4d1" src="https://github.com/user-attachments/assets/7cf10937-0a65-481b-8e1c-4e5c8e27ec68" />
+]'
 
 ## Author and Acknowledgement
 
