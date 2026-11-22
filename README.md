@@ -228,15 +228,16 @@ java Main
 5. **Create Laundry Schedule**
    Prompts for customer name, service selection, weight, pickup/delivery dates, and express option.
    '[
-   <img width="828" height="842" alt="8515ec10-64bd-451f-816a-1f2ff208c4d1" src="https://github.com/user-attachments/assets/40312f7b-6741-40a0-b18c-a0e707af90ad" />
+   <img width="828" height="842" alt="8515ec10-64bd-451f-816a-1f2ff208c4d1" src="https://github.com/user-attachments/assets/c136f3d8-29c7-43b8-a7f7-941191962151" />
 ]'
 
 7. **Laundry Schedule Receipt**
    Displays the formatted receipt with base cost, express fee, and total amount due.
-   '[<img width="828" height="842" alt="8515ec10-64bd-451f-816a-1f2ff208c4d1" src="https://github.com/user-attachments/assets/9e1756ee-3ee5-44da-bcdd-40ec27de45f4" />
+   '[
+   <img width="828" height="1178" alt="b3e97c03-f69e-41ef-b200-60eb05fde076 (2)" src="https://github.com/user-attachments/assets/e5708bc4-6886-4684-bdf5-1fa62578a17f" />
+]'
 
-
-8. **View All Orders**
+9. **View All Orders**
    Displays all recorded orders and total order count.
    '[
    <img width="828" height="842" alt="8515ec10-64bd-451f-816a-1f2ff208c4d1" src="https://github.com/user-attachments/assets/7cf10937-0a65-481b-8e1c-4e5c8e27ec68" />
